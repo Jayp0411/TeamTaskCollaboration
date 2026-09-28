@@ -35,11 +35,4 @@ MongoDB must be running locally or use MongoDB Atlas.
 Default frontend: http://localhost:5173
 Default backend: http://localhost:5000
 
-## Resume version
-Real-Time Team Task Management & Collaboration Platform | MERN, Socket.io
 
-• Developed a full-stack team collaboration platform using React.js, Node.js, Express.js, and MongoDB for managing teams, projects, and tasks.
-• Implemented JWT authentication, bcrypt password hashing, protected routes, and team-owner authorization.
-• Built RESTful APIs for task CRUD, status/priority tracking, filtering, team membership, assignments, and notifications.
-• Implemented authenticated Socket.io team rooms to synchronize task creation, updates, and deletions across connected team members without page refreshes.
-• Created a Chart.js dashboard to visualize task distribution across To Do, In Progress, and Completed states.
